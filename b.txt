@@ -1,0 +1,6 @@
+meta,101
+turknet,102
+BMW,103
+microsoft,105
+google,106
+razer,107

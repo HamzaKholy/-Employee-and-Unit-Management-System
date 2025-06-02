@@ -1,0 +1,6 @@
+ahmet,kan,101,1400.00,2023
+hamza,khouli,101,500.00,2023
+mehmet,can,103,200.00,1999
+munir,kan,105,1400.00,2023
+zehra,nur,106,1200.00,2023
+motasem,han,106,200.00,1999
